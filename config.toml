@@ -1,0 +1,41 @@
+baseURL = "/"
+#languageCode = "en-us"
+title = "~# >"
+paginate = 5
+canonifyurls = true
+
+SectionPagesMenu = "main"
+
+# Configure syntax highlight
+[markup]
+  [markup.highlight]
+    style = "rrt" # dark themes: monokai, api, fruity, native, rrt, swapoff
+
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/"
+
+[[menu.main]]
+  name = "RSS"
+  weight = -100
+  identifier = "rss"
+  url = "/index.xml"
+
+[params.meta]
+  keywords = "blog, tech, web, linux, tweak, config"
+  description = "Personal blog"
+
+[params]
+# twitter = "example"
+# email = "example@mail.com"
+  theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
+# subtitle = "An Incomplete Idiot's Guide"
+  subtitle = "Beware of the Leopard"
