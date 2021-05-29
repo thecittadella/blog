@@ -51,7 +51,7 @@ https://img.youtube.com/vi/<insert-youtube-video-id-here>/hq720.jpg
 ```
 Для вставки YouTube видео в markdown документ используйте код подобный этому:
 ```
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ````
 
 В адресе можно использовать `i3.ytimg.com` вместо `img.youtube.com`.
