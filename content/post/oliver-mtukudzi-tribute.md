@@ -8,7 +8,7 @@ categories:
   - Music
 draft: false
 ---
-[![Oliver Mtukudzi](http://img.youtube.com/vi/oqsA_v4Nu4U/sddefault.jpg)](http://www.youtube.com/watch?v=oqsA_v4Nu4U)
+[![Oliver Mtukudzi](https://img.youtube.com/vi/oqsA_v4Nu4U/sddefault.jpg)](https://www.youtube.com/watch?v=oqsA_v4Nu4U)
 
 "You don't get to sing a song when you have nothing to say"
 <!--more-->

@@ -8,9 +8,9 @@ categories:
   - Music
 draft: false
 ---
-[![Princess Chelsea](http://img.youtube.com/vi/F1SHkHgWlAo/sddefault.jpg)](http://www.youtube.com/watch?v=F1SHkHgWlAo)
+[![Princess Chelsea](https://img.youtube.com/vi/F1SHkHgWlAo/sddefault.jpg)](https://www.youtube.com/watch?v=F1SHkHgWlAo)
 
 Прошло 12 лет — все еще в моем плеере.
 <!--more-->
 
-[![Princess Chelsea](http://img.youtube.com/vi/Lo8t5AbFSuQ/sd1.jpg)](http://www.youtube.com/watch?v=Lo8t5AbFSuQ)
+[![Princess Chelsea](https://img.youtube.com/vi/Lo8t5AbFSuQ/sd1.jpg)](https://www.youtube.com/watch?v=Lo8t5AbFSuQ)

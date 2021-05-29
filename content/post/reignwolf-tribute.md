@@ -9,9 +9,9 @@ categories:
 draft: false
 ---
 
-[![Reignwolf - Are You Satisfied?](http://img.youtube.com/vi/sPuHJPP2AoA/sddefault.jpg)](http://www.youtube.com/watch?v=sPuHJPP2AoA)
+[![Reignwolf - Are You Satisfied?](https://img.youtube.com/vi/sPuHJPP2AoA/sddefault.jpg)](https://www.youtube.com/watch?v=sPuHJPP2AoA)
 
 Рок-н-ролл мертв говорили они.
 <!--more-->
 
-[![Reignwolf - Live on KEXP](http://img.youtube.com/vi/gJo5ieZeXcg/sddefault.jpg)](http://www.youtube.com/watch?v=gJo5ieZeXcg)
+[![Reignwolf - Live on KEXP](https://img.youtube.com/vi/gJo5ieZeXcg/sddefault.jpg)](https://www.youtube.com/watch?v=gJo5ieZeXcg)
